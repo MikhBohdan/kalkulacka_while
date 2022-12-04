@@ -1,0 +1,15 @@
+C:\Users\38066\source\repos\calculator_while\calculator_while\bin\Debug\net6.0\calculator_while.exe
+C:\Users\38066\source\repos\calculator_while\calculator_while\bin\Debug\net6.0\calculator_while.deps.json
+C:\Users\38066\source\repos\calculator_while\calculator_while\bin\Debug\net6.0\calculator_while.runtimeconfig.json
+C:\Users\38066\source\repos\calculator_while\calculator_while\bin\Debug\net6.0\calculator_while.dll
+C:\Users\38066\source\repos\calculator_while\calculator_while\bin\Debug\net6.0\calculator_while.pdb
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.csproj.AssemblyReference.cache
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.AssemblyInfoInputs.cache
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.AssemblyInfo.cs
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.csproj.CoreCompileInputs.cache
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.dll
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\refint\calculator_while.dll
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.pdb
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\calculator_while.genruntimeconfig.cache
+C:\Users\38066\source\repos\calculator_while\calculator_while\obj\Debug\net6.0\ref\calculator_while.dll
